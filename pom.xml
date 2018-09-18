@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guru.springframework</groupId>
-	<artifactId>sfg-pet-clinic</artifactId>
+	<artifactId>udemy-sfg5-pet-clinic</artifactId>
 	<version>0.0.1</version>
 
 	<modules>
@@ -14,8 +14,8 @@
 
 	<packaging>pom</packaging>
 
-	<name>sfg-pet-clinic</name>
-	<description>SFG Pet Clinic Project</description>
+	<name>udemy-sfg5-pet-clinic</name>
+	<description>SFG5 Pet Clinic</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
